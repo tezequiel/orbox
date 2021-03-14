@@ -189,6 +189,7 @@ a {
 .main-footer > ul > li {
   list-style-type: none;
   display: inline;
+  margin: 5px;
 }
 
 .main-footer > ul > li > a {
